@@ -1,0 +1,6 @@
+.no-data{
+    text-align: center;
+    grid-column: 1/5;
+    font-size: 16px;
+    padding: 20px;
+}
