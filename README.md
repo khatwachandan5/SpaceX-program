@@ -18,3 +18,6 @@ This app uses spaceX open API to displace list of lauch programs. It is a SPA us
 
 ## Port
 - http://localhost:8080
+
+## Deployed
+- https://khatwachandan5.github.io/spacex-program/
