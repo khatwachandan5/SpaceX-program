@@ -2,7 +2,7 @@
   "name": "space-x-program",
   "version": "1.0.0",
   "description": "This project uses spaceX open API to display space programs for the year or overall.",
-  "homepage": "http://khatwachandan5.github.io/spaceXProgram",
+  "homepage": "http://khatwachandan5.github.io/spacex-program",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build ",
